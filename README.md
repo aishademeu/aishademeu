@@ -1,6 +1,6 @@
 # Hi there! I'm Aisha Demeu 👋
 
-I'm a curious student from Kazakhstan who’s passionate about **math**, **programming**, and **debate**. I love solving problems — whether it's building something with code, preparing arguments for competitions, or exploring math puzzles.
+I'm a student from Kazakhstan who’s passionate about **math**, **programming**, and **debate**. I love solving problems — whether it's building something with code, preparing arguments for competitions, or exploring math puzzles.
 
 Right now, I'm working on improving my programming skills and building a strong academic portfolio to apply to top universities.
 
