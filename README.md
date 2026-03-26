@@ -5,7 +5,7 @@ I'm a student from Kazakhstan who’s passionate about **math**, **programming**
 Right now, I'm working on improving my programming skills and building a strong academic portfolio to apply to top universities.
 
 ### 🚀 What I'm doing:
-- Learning Python and exploring algorithms
+- Learning C++ and exploring algorithms
 - Competing in math and logic contests
 - Practicing English through debate and public speaking
 - Exploring open source and working on my first GitHub projects
